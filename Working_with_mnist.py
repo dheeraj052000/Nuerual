@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 """
-CS5720 Assignment 1: Neural Network Fundamentals
-Starter Code - Build a Neural Network from Scratch
 
 Instructions:
 - Use only NumPy for computations
